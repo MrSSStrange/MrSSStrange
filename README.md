@@ -128,7 +128,6 @@ My goal is to become a strong frontend developer and grow into full-stack develo
 <p align="center">
   I use MacBook Air as my main development machine and iPhone for checking responsive interfaces.
 </p>
----
 
 ## 📚 Currently Learning
 
