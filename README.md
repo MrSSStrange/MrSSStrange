@@ -16,9 +16,6 @@
   <a href="https://www.linkedin.com/in/ernest-muzafarov-919a323a2/">
     <img src="https://img.shields.io/badge/LinkedIn-Ernest%20Muzafarov-3C3B6E?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://t.me/mrssstrange">
-    <img src="https://img.shields.io/badge/Telegram-@mrssstrange-0A66C2?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
 </p>
 
 ---
@@ -178,9 +175,6 @@ Full-stack fundamentals
   </a>
   <a href="https://www.linkedin.com/in/ernest-muzafarov-919a323a2/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-3C3B6E?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://t.me/mrssstrange">
-    <img src="https://img.shields.io/badge/Telegram-Message-0A66C2?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
 
