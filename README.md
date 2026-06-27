@@ -58,6 +58,7 @@ I focus on **React**, **TypeScript**, **JavaScript**, dashboards, forms, filters
 <table>
   <tr>
     <td width="50%">
+      <img src="./assets/supportdesk-preview.png" width="100%" alt="Ernest SupportDesk preview" />
       <h3>⭐ Ernest SupportDesk</h3>
       <p>
         React TypeScript support desk app for managing client requests, ticket statuses, priorities and internal workflow.
@@ -74,6 +75,7 @@ I focus on **React**, **TypeScript**, **JavaScript**, dashboards, forms, filters
       </p>
     </td>
     <td width="50%">
+      <img src="./assets/clinic-appointments-preview.png" width="100%" alt="Clinic Appointments Dashboard preview" />
       <h3>⭐ Clinic Appointments Dashboard</h3>
       <p>
         React TypeScript dashboard for managing clinic appointments, doctors, patients and visit statuses.
@@ -92,6 +94,7 @@ I focus on **React**, **TypeScript**, **JavaScript**, dashboards, forms, filters
   </tr>
   <tr>
     <td width="50%">
+      <img src="./assets/clinic-patients-preview.png" width="100%" alt="Clinic Patients preview" />
       <h3>⭐ Clinic Patients</h3>
       <p>
         JavaScript patient management app with forms, validation, search, filters and dynamic DOM rendering.
@@ -121,7 +124,6 @@ I focus on **React**, **TypeScript**, **JavaScript**, dashboards, forms, filters
     </td>
   </tr>
 </table>
-
 ---
 
 ## 🎯 Portfolio Focus
