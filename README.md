@@ -1,29 +1,29 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:181717&height=190&section=header&text=Ernest%20Muzafarov&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+<img src="./assets/github-profile-american-banner.png" />
 
 <h1 align="center">Hi, I'm Ernest 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=780&lines=Frontend+Developer;React+%7C+TypeScript+%7C+JavaScript;Building+clean+interfaces+for+real+workflows;Support+leadership+background+%E2%86%92+Frontend+development" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=3000&pause=900&color=FF3B3B&center=true&vCenter=true&width=780&lines=Frontend+Developer;React+%7C+TypeScript+%7C+JavaScript;Building+clean+interfaces+for+real+workflows;Support+leadership+background+%E2%86%92+Frontend+development" />
 </p>
 
 <p align="center">
   <a href="mailto:mega.ernest13@gmail.com">
-    <img src="https://img.shields.io/badge/Email-mega.ernest13%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-mega.ernest13%40gmail.com-B22234?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/MrSSStrange">
     <img src="https://img.shields.io/badge/GitHub-MrSSStrange-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/ernest-muzafarov-919a323a2/">
-    <img src="https://img.shields.io/badge/LinkedIn-Ernest%20Muzafarov-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Ernest%20Muzafarov-3C3B6E?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://t.me/mrssstrange">
-    <img src="https://img.shields.io/badge/Telegram-@mrssstrange-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Telegram-@mrssstrange-0A66C2?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 👨‍💻 About
+## 🇺🇸 About
 
 I am a frontend developer with a strong technical support leadership background.
 
@@ -58,7 +58,7 @@ I focus on **React**, **TypeScript**, **JavaScript**, dashboards, forms, filters
 <table>
   <tr>
     <td width="50%">
-      <h3>Ernest SupportDesk</h3>
+      <h3>⭐ Ernest SupportDesk</h3>
       <p>
         React TypeScript support desk app for managing client requests, ticket statuses, priorities and internal workflow.
       </p>
@@ -66,7 +66,7 @@ I focus on **React**, **TypeScript**, **JavaScript**, dashboards, forms, filters
         <b>Stack:</b> React, TypeScript, Vite
       </p>
       <p>
-        <b>Highlights:</b> ticket management, priority control, search, filters, status workflow, dashboard statistics.
+        <b>Highlights:</b> ticket management, priority control, search, filters, status workflow and dashboard statistics.
       </p>
       <p>
         <a href="https://mrssstrange.github.io/ernest-supportdesk/">Demo</a> •
@@ -74,7 +74,7 @@ I focus on **React**, **TypeScript**, **JavaScript**, dashboards, forms, filters
       </p>
     </td>
     <td width="50%">
-      <h3>Clinic Appointments Dashboard</h3>
+      <h3>⭐ Clinic Appointments Dashboard</h3>
       <p>
         React TypeScript dashboard for managing clinic appointments, doctors, patients and visit statuses.
       </p>
@@ -92,7 +92,7 @@ I focus on **React**, **TypeScript**, **JavaScript**, dashboards, forms, filters
   </tr>
   <tr>
     <td width="50%">
-      <h3>Clinic Patients</h3>
+      <h3>⭐ Clinic Patients</h3>
       <p>
         JavaScript patient management app with forms, validation, search, filters and dynamic DOM rendering.
       </p>
@@ -108,7 +108,7 @@ I focus on **React**, **TypeScript**, **JavaScript**, dashboards, forms, filters
       </p>
     </td>
     <td width="50%">
-      <h3>What I Build</h3>
+      <h3>🎯 What I Build</h3>
       <p>
         Practical frontend interfaces based on real business workflows.
       </p>
@@ -124,7 +124,7 @@ I focus on **React**, **TypeScript**, **JavaScript**, dashboards, forms, filters
 
 ---
 
-## 📌 Portfolio Focus
+## 🎯 Portfolio Focus
 
 ```txt
 Frontend development
@@ -167,17 +167,17 @@ Full-stack fundamentals
 
 ---
 
-## 🤝 Contact
+## 🤝 Let's Connect
 
 <p align="center">
   <a href="mailto:mega.ernest13@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact-B22234?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/ernest-muzafarov-919a323a2/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-3C3B6E?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://t.me/mrssstrange">
-    <img src="https://img.shields.io/badge/Telegram-Message-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Telegram-Message-0A66C2?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
 
@@ -187,4 +187,4 @@ Full-stack fundamentals
   <b>Build clean. Think product. Solve real problems.</b>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:181717,100:0A66C2&height=140&section=footer&text=Code.%20Build.%20Improve.&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=75" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B22234,50:3C3B6E,100:0A66C2&height=120&section=footer&text=Code.%20Build.%20Improve.&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=75" />
