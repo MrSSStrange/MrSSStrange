@@ -172,9 +172,7 @@ Clean UI development
 
 ---
 
-<p align="center">
-  <b>Building. Learning. Improving.</b>
-</p>
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:181717,100:0A66C2&height=140&section=footer&text=Code.%20Build.%20Improve.&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=75" />
 
