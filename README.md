@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Ernest 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Frontend+Developer;React+%7C+TypeScript+%7C+JavaScript;Building+clean+and+practical+web+interfaces;Turning+real+workflows+into+useful+products" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=780&lines=Frontend+Developer;React+%7C+TypeScript+%7C+JavaScript;Building+clean+interfaces+for+real+workflows;Support+leadership+background+%E2%86%92+Frontend+development" />
 </p>
 
 <p align="center">
@@ -16,21 +16,22 @@
   <a href="https://www.linkedin.com/in/ernest-muzafarov-919a323a2/">
     <img src="https://img.shields.io/badge/LinkedIn-Ernest%20Muzafarov-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://t.me/mrssstrange">
+    <img src="https://img.shields.io/badge/Telegram-@mrssstrange-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 👨‍💻 About me
+## 👨‍💻 About
 
-I am a technical support lead transitioning into frontend development.
+I am a frontend developer with a strong technical support leadership background.
 
-My background is connected with medical information systems, client workflows, integrations, product support, technical documentation and real user problems.
+Currently, I lead a technical support team at **GIASOFT**, where I work with medical information systems, client workflows, integrations, technical documentation, product issues and real business processes.
 
-Now I build frontend projects with **JavaScript**, **React**, **TypeScript** and **Vite**.
+This experience helps me build frontend interfaces that are not just visually clean, but also practical, structured and useful for real users.
 
-I like creating clean interfaces that solve practical tasks: dashboards, forms, filters, status management, data lists and internal tools.
-
-My goal is to become a strong frontend developer and grow into full-stack development.
+I focus on **React**, **TypeScript**, **JavaScript**, dashboards, forms, filters, status management and internal tools.
 
 ---
 
@@ -59,13 +60,13 @@ My goal is to become a strong frontend developer and grow into full-stack develo
     <td width="50%">
       <h3>Ernest SupportDesk</h3>
       <p>
-        React TypeScript support desk app for managing client requests, ticket statuses and internal workflow.
+        React TypeScript support desk app for managing client requests, ticket statuses, priorities and internal workflow.
       </p>
       <p>
         <b>Stack:</b> React, TypeScript, Vite
       </p>
       <p>
-        <b>Features:</b> tickets, priorities, statuses, search, filters, statistics and workflow management.
+        <b>Highlights:</b> ticket management, priority control, search, filters, status workflow, dashboard statistics.
       </p>
       <p>
         <a href="https://mrssstrange.github.io/ernest-supportdesk/">Demo</a> •
@@ -81,7 +82,7 @@ My goal is to become a strong frontend developer and grow into full-stack develo
         <b>Stack:</b> React, TypeScript, Vite, LocalStorage
       </p>
       <p>
-        <b>Features:</b> appointment creation, search, filters, status management, statistics and local data storage.
+        <b>Highlights:</b> appointment creation, search, filters, status management, statistics and local data storage.
       </p>
       <p>
         <a href="https://mrssstrange.github.io/clinic-appointments-dashboard/">Demo</a> •
@@ -99,23 +100,23 @@ My goal is to become a strong frontend developer and grow into full-stack develo
         <b>Stack:</b> HTML, CSS, JavaScript, DOM, LocalStorage
       </p>
       <p>
-        <b>Features:</b> patient cards, form validation, photo upload, filtering, sorting and browser storage.
+        <b>Highlights:</b> patient cards, form validation, photo upload, filtering, sorting and browser storage.
       </p>
       <p>
+        <a href="https://mrssstrange.github.io/clinic-patients/">Demo</a> •
         <a href="https://github.com/MrSSStrange/clinic-patients">Code</a>
-        <a href="mrssstrange.github.io/clinic-appointments-dashboard/">Demo</a>
       </p>
     </td>
     <td width="50%">
-      <h3>What I focus on</h3>
+      <h3>What I Build</h3>
       <p>
-        I build practical frontend interfaces based on real business workflows.
+        Practical frontend interfaces based on real business workflows.
       </p>
       <p>
-        <b>Focus:</b> clean UI, forms, dashboards, state, filters, data rendering and user-friendly logic.
+        <b>Focus:</b> dashboards, forms, data lists, filters, status logic, clean UI and user-friendly internal tools.
       </p>
       <p>
-        <b>Current direction:</b> React, TypeScript, REST API and full-stack fundamentals.
+        <b>Direction:</b> React, TypeScript, REST API and full-stack fundamentals.
       </p>
     </td>
   </tr>
@@ -131,6 +132,7 @@ React + TypeScript
 Dashboards and internal tools
 Forms and validation
 Search, filters and sorting
+State and data rendering
 Real business workflows
 Medical information systems domain
 ```
@@ -140,11 +142,11 @@ Medical information systems domain
 ## 📚 Currently Learning
 
 ```txt
-JavaScript Core
-React
+Advanced JavaScript
+React architecture
 TypeScript
 REST API
-Git and GitHub
+Git and GitHub workflow
 Frontend architecture
 Clean UI development
 Full-stack fundamentals
@@ -174,12 +176,15 @@ Full-stack fundamentals
   <a href="https://www.linkedin.com/in/ernest-muzafarov-919a323a2/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://t.me/mrssstrange">
+    <img src="https://img.shields.io/badge/Telegram-Message-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <b>Building. Learning. Improving.</b>
+  <b>Build clean. Think product. Solve real problems.</b>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:181717,100:0A66C2&height=140&section=footer&text=Code.%20Build.%20Improve.&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=75" />
