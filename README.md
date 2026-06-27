@@ -1,9 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:181717&height=180&section=header&text=Ernest%20Muzafarov&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:181717&height=190&section=header&text=Ernest%20Muzafarov&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 
 <h1 align="center">Hi, I'm Ernest 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%7C+TypeScript+%7C+JavaScript;Building+clean+and+practical+web+interfaces" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Frontend+Developer;React+%7C+TypeScript+%7C+JavaScript;Building+clean+and+practical+web+interfaces;Turning+real+workflows+into+useful+products" />
 </p>
 
 <p align="center">
@@ -27,9 +27,11 @@
 
 I am a technical support lead transitioning into frontend development.
 
-I work with medical information systems, integrations, client requests, technical documentation and product support.
+My background is connected with medical information systems, client workflows, integrations, product support, technical documentation and real user problems.
 
-Now I am building frontend projects with **JavaScript**, **React** and **TypeScript**.
+Now I build frontend projects with **JavaScript**, **React**, **TypeScript** and **Vite**.
+
+I like creating clean interfaces that solve practical tasks: dashboards, forms, filters, status management, data lists and internal tools.
 
 My goal is to become a strong frontend developer and grow into full-stack development.
 
@@ -60,13 +62,13 @@ My goal is to become a strong frontend developer and grow into full-stack develo
     <td width="50%">
       <h3>Ernest SupportDesk</h3>
       <p>
-        React application for processing client support requests.
+        React TypeScript support desk app for managing client requests, ticket statuses and internal workflow.
       </p>
       <p>
         <b>Stack:</b> React, TypeScript, Vite
       </p>
       <p>
-        <b>Features:</b> support tickets, client requests, internal workflow.
+        <b>Features:</b> tickets, priorities, statuses, search, filters, statistics and workflow management.
       </p>
       <p>
         <a href="https://mrssstrange.github.io/ernest-supportdesk/">Demo</a> •
@@ -74,45 +76,66 @@ My goal is to become a strong frontend developer and grow into full-stack develo
       </p>
     </td>
     <td width="50%">
-      <h3>Clinic Patients</h3>
+      <h3>Clinic Appointments Dashboard</h3>
       <p>
-        JavaScript project for working with patient data.
+        React TypeScript dashboard for managing clinic appointments, doctors, patients and visit statuses.
       </p>
       <p>
-        <b>Stack:</b> HTML, CSS, JavaScript
+        <b>Stack:</b> React, TypeScript, Vite, LocalStorage
       </p>
       <p>
-        <b>Features:</b> forms, validation, dynamic list rendering, DOM manipulation.
+        <b>Features:</b> appointment creation, search, filters, status management, statistics and local data storage.
       </p>
       <p>
-        <a href="https://github.com/MrSSStrange/clinic-patients">Code</a>
+        <a href="https://mrssstrange.github.io/clinic-appointments-dashboard/">Demo</a> •
+        <a href="https://github.com/MrSSStrange/clinic-appointments-dashboard">Code</a>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>React App</h3>
+      <h3>Clinic Patients</h3>
       <p>
-        Training React project focused on components, state and UI logic.
+        JavaScript patient management app with forms, validation, search, filters and dynamic DOM rendering.
       </p>
       <p>
-        <b>Stack:</b> React, JavaScript, CSS
+        <b>Stack:</b> HTML, CSS, JavaScript, DOM, LocalStorage
       </p>
       <p>
-        <a href="https://github.com/MrSSStrange/react-app">Code</a>
+        <b>Features:</b> patient cards, form validation, photo upload, filtering, sorting and browser storage.
+      </p>
+      <p>
+        <a href="https://github.com/MrSSStrange/clinic-patients">Code</a>
       </p>
     </td>
     <td width="50%">
-      <h3>Git Practice</h3>
+      <h3>What I focus on</h3>
       <p>
-        Repository for practicing Git, GitHub flow, branches, commits and pull requests.
+        I build practical frontend interfaces based on real business workflows.
       </p>
       <p>
-        <b>Stack:</b> Git, GitHub, Markdown
+        <b>Focus:</b> clean UI, forms, dashboards, state, filters, data rendering and user-friendly logic.
+      </p>
+      <p>
+        <b>Current direction:</b> React, TypeScript, REST API and full-stack fundamentals.
       </p>
     </td>
   </tr>
 </table>
+
+---
+
+## 📌 Portfolio Focus
+
+```txt
+Frontend development
+React + TypeScript
+Dashboards and internal tools
+Forms and validation
+Search, filters and sorting
+Real business workflows
+Medical information systems domain
+```
 
 ---
 
@@ -126,6 +149,7 @@ REST API
 Git and GitHub
 Frontend architecture
 Clean UI development
+Full-stack fundamentals
 ```
 
 ---
@@ -159,7 +183,8 @@ Clean UI development
 
 ---
 
-
+<p align="center">
+  <b>Building. Learning. Improving.</b>
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:181717,100:0A66C2&height=140&section=footer&text=Code.%20Build.%20Improve.&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=75" />
-
