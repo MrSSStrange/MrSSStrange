@@ -116,19 +116,6 @@ My goal is to become a strong frontend developer and grow into full-stack develo
 
 ---
 
-## ⚙️ Workspace
-
-<p align="center">
-  <img src="https://img.shields.io/badge/MacBook-Air-111111?style=for-the-badge&logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/iPhone-Testing-111111?style=for-the-badge&logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-Editor-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-Workflow-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
-<p align="center">
-  I use MacBook Air as my main development machine and iPhone for checking responsive interfaces.
-</p>
-
 ## 📚 Currently Learning
 
 ```txt
