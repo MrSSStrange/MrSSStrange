@@ -103,6 +103,7 @@ My goal is to become a strong frontend developer and grow into full-stack develo
       </p>
       <p>
         <a href="https://github.com/MrSSStrange/clinic-patients">Code</a>
+        <a href="mrssstrange.github.io/clinic-appointments-dashboard/">Demo</a>
       </p>
     </td>
     <td width="50%">
