@@ -53,6 +53,21 @@ I focus on **React**, **TypeScript**, **JavaScript**, dashboards, forms, filters
 
 ---
 
+## 🌐 Personal Portfolio
+
+I also built and deployed my personal portfolio website:
+
+<p align="center">
+  <a href="https://ernestmuzafarov.tech">
+    <img src="https://img.shields.io/badge/Open%20Portfolio-ernestmuzafarov.tech-B22234?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</p>
+
+The portfolio connects my frontend projects, GitHub repositories, technical background and current development direction in one place.
+
+**Stack:** HTML, CSS, Vanilla JavaScript, GitHub Pages, GitHub API
+
+
 ## 🚀 Featured Projects
 
 <table>
