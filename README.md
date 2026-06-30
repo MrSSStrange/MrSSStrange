@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ernest 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=3000&pause=900&color=FF3B3B&center=true&vCenter=true&width=780&lines=Frontend+Developer;React+%7C+TypeScript+%7C+JavaScript;Building+clean+interfaces+for+real+workflows;Support+leadership+background+%E2%86%92+Frontend+development" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=3000&pause=900&color=FF3B3B&center=true&vCenter=true&width=780&lines=Frontend+Developer;React+%7C+TypeScript+%7C+JavaScript;Building+clean+interfaces+for+real+workflows;Support+leadership+background+%E2%86%92+Frontend+development](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=JS+%7C+TS+%7C+React+%7C+Git;Frontend+delevoper)" />
 </p>
 
 <p align="center">
