@@ -122,7 +122,23 @@ I focus on **React**, **TypeScript**, **JavaScript**, dashboards, forms, filters
   </tr>
 </table>
 
+---
 
+## 📜 Certificates
+
+<p align="center">
+  <a href="./assets/udemy-certificate-english.pdf">
+    <img 
+      src="./assets/file-001.png" 
+      width="720" 
+      alt="Udemy Certificate - The Complete JavaScript Course" 
+    />
+  </a>
+</p>
+
+<p align="center">
+  <b>Udemy Certificate:</b> The Complete JavaScript Course — From Scratch to Results!
+</p>
 
 ## 🎯 Portfolio Focus
 
