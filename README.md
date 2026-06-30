@@ -127,7 +127,7 @@ I focus on **React**, **TypeScript**, **JavaScript**, dashboards, forms, filters
 ## 📜 Certificates
 
 <p align="center">
-  <a href="./assets/udemy-certificate-english.pdf">
+  <a href="./assets/udemy_certificate_english.pdf">
     <img 
       src="./assets/file-001.png" 
       width="720" 
