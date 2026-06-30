@@ -1,5 +1,3 @@
-<img src="./assets/github-profile-american-banner1.png" />
-
 <h1 align="center">Hi, I'm Ernest 👋</h1>
 
 <p align="center">
