@@ -18,7 +18,7 @@
 
 ---
 
-## 🇺🇸 About
+## 👨🏻‍💻 About
 
 I am a frontend developer with a strong technical support leadership background.
 
