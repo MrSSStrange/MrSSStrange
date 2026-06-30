@@ -125,19 +125,7 @@ The portfolio connects my frontend projects, GitHub repositories, technical back
         <a href="https://github.com/MrSSStrange/clinic-patients">Code</a>
       </p>
     </td>
-    <td width="50%">
-      <h3>🎯 What I Build</h3>
-      <p>
-        Practical frontend interfaces based on real business workflows.
-      </p>
-      <p>
-        <b>Focus:</b> dashboards, forms, data lists, filters, status logic, clean UI and user-friendly internal tools.
-      </p>
-      <p>
-        <b>Direction:</b> React, TypeScript, REST API and full-stack fundamentals.
-      </p>
-    </td>
-  </tr>
+    <td width="50%"> <img src="./assets/portfolio-preview.png" width="100%" alt="Personal Portfolio preview" /> <h3>⭐ Personal Portfolio</h3> <p> Personal frontend portfolio website built to present my projects, technical background, GitHub profile and current frontend development direction. </p> <p> <b>Stack:</b> HTML, CSS, JavaScript, GitHub Pages </p> <p> <b>Highlights:</b> responsive layout, theme switcher, terminal-style hero animation, GitHub API integration, project cards and custom domain deployment. </p> <p> <a href="https://ernestmuzafarov.tech">Demo</a> • <a href="https://github.com/MrSSStrange/ernest-portfolio">Code</a> </p> </td>
 </table>
 
 ---
