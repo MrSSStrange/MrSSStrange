@@ -1,12 +1,16 @@
+
 <h1 align="center">Hi, I'm Ernest 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=3000&pause=900&color=FF3B3B&center=true&vCenter=true&width=780&lines=Frontend+Developer;React+%7C+TypeScript+%7C+JavaScript;Building+clean+interfaces+for+real+workflows;Support+leadership+background+%E2%86%92+Frontend+development]https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=JS+%7C+TS+%7C+React+%7C+Git;Frontend+delevoper" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=3000&pause=900&color=FF3B3B&center=true&vCenter=true&width=780&lines=Frontend+Developer;React+%7C+TypeScript+%7C+JavaScript;Building+clean+interfaces+for+real+workflows;Medical+software+background+%E2%86%92+Frontend+development" />
 </p>
 
 <p align="center">
+  <a href="https://ernestmuzafarov.tech">
+    <img src="https://img.shields.io/badge/Portfolio-ernestmuzafarov.tech-B22234?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
   <a href="mailto:mega.ernest13@gmail.com">
-    <img src="https://img.shields.io/badge/Email-mega.ernest13%40gmail.com-B22234?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-mega.ernest13%40gmail.com-181717?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/MrSSStrange">
     <img src="https://img.shields.io/badge/GitHub-MrSSStrange-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -17,6 +21,7 @@
 </p>
 
 ---
+
 
 ## 👨🏻‍💻 About
 
