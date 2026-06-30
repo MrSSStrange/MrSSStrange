@@ -140,36 +140,82 @@ I focus on **React**, **TypeScript**, **JavaScript**, dashboards, forms, filters
   <b>Udemy Certificate:</b> The Complete JavaScript Course — From Scratch to Results!
 </p>
 
+
+---
+
 ## 🎯 Portfolio Focus
 
-```txt
-Frontend development
-React + TypeScript
-Dashboards and internal tools
-Forms and validation
-Search, filters and sorting
-State and data rendering
-Real business workflows
-Medical information systems domain
-```
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🧩 Frontend Interfaces</h3>
+      <p>
+        I build clean and practical frontend interfaces for real workflows:
+        dashboards, forms, data lists, filters, sorting and status management.
+      </p>
+    </td>
+    <td width="50%">
+      <h3>⚙️ Internal Tools</h3>
+      <p>
+        I focus on tools that help teams work faster:
+        support desks, clinic dashboards, admin panels and workflow-based UI.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🏥 Medical Systems Domain</h3>
+      <p>
+        My technical support background helps me understand real users,
+        business processes, client requests and product problems.
+      </p>
+    </td>
+    <td width="50%">
+      <h3>🚀 Development Direction</h3>
+      <p>
+        React, TypeScript, REST API, frontend architecture and full-stack fundamentals.
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 📚 Currently Learning
 
-```txt
-Advanced JavaScript
-React architecture
-TypeScript
-REST API
-Git and GitHub workflow
-Frontend architecture
-Clean UI development
-Full-stack fundamentals
-```
+<p align="center">
+  <img src="https://img.shields.io/badge/Advanced%20JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/React%20Architecture-111111?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/REST%20API-111111?style=for-the-badge&logo=fastapi&logoColor=009688" />
+  <img src="https://img.shields.io/badge/Git%20Workflow-111111?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/Full--stack%20Fundamentals-111111?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" />
+</p>
+
+<table>
+  <tr>
+    <td width="33%">
+      <h3>🟨 JavaScript</h3>
+      <p>
+        Core language, DOM, async code, promises, fetch, data rendering and application logic.
+      </p>
+    </td>
+    <td width="33%">
+      <h3>⚛️ React</h3>
+      <p>
+        Components, props, state, hooks, architecture, reusable UI and project structure.
+      </p>
+    </td>
+    <td width="33%">
+      <h3>🔷 TypeScript</h3>
+      <p>
+        Types, interfaces, safer components, better project structure and cleaner code.
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
